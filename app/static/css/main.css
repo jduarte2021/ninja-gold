@@ -1,0 +1,29 @@
+
+.fondo {
+    background-color: rgb(48, 139, 139);
+}
+
+.color {
+    color: rgb(214, 214, 214)
+}
+
+.cuadros {
+    width: 200px;
+    height: 200px;
+}
+
+.centro {
+    text-align: center;
+}
+
+.header {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0px;
+    color: rgb(197, 193, 193);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.paddingabajo {
+    padding-bottom: 30px;
+}
